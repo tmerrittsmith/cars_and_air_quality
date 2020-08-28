@@ -1,4 +1,4 @@
-## Counting cars and Air quality
+## Counting cars and air quality
 
 I've been interested in open data for a while, and [Newcastle City Council](https://www.netraveldata.co.uk/) has combined forces with the [University](https://urbanobservatory.ac.uk/) here to do some interesting things.
 
