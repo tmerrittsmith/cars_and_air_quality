@@ -1,6 +1,6 @@
 ## Counting cars and Air quality
 
-I've been interested in open data for a while, and [Newcastle City Council](https://www.netraveldata.co.uk/) has combined forces with the [University] (https://urbanobservatory.ac.uk/) here to do some interesting things.
+I've been interested in open data for a while, and [Newcastle City Council](https://www.netraveldata.co.uk/) has combined forces with the [University](https://urbanobservatory.ac.uk/) here to do some interesting things.
 
 Specifically, there's an air quality monitor and a cctv traffic camera near a local primary school. This got me wondering: is it possible to see a relation between changes in air quality and the number of cars on the road. 
 
